@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="260" viewBox="0 0 1100 260" role="img" aria-label="Gokul Srinivasan Prabu  AI and Data Science">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#100E0C"/>
+      <stop offset="100%" stop-color="#1A1612"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#EFE7D6" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1100" height="260" rx="18" fill="url(#bg)"/>
+  <rect width="1100" height="260" rx="18" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1098" height="258" rx="17" fill="none" stroke="#C45C26" stroke-opacity="0.35" stroke-width="1.5"/>
+  <rect x="28" y="28" width="204" height="204" rx="16" fill="#14110E" stroke="#C45C26" stroke-opacity="0.45"/>
+  <circle cx="130" cy="130" r="58" fill="none" stroke="#EFE7D6" stroke-opacity="0.85" stroke-width="1.6"/>
+  <path d="M164 130a34 34 0 1 1-10-24" fill="none" stroke="#C45C26" stroke-width="7" stroke-linecap="round"/>
+  <path d="M154 130h28" fill="none" stroke="#C45C26" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="184" cy="130" r="5" fill="#EFE7D6"/>
+  <text x="268" y="92" fill="#C45C26" font-family="Georgia, 'Times New Roman', serif" font-size="13" letter-spacing="4.2">AI · VISION · LLMS · FORECASTING</text>
+  <text x="268" y="142" fill="#EFE7D6" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700">Gokul Srinivasan Prabu</text>
+  <text x="268" y="176" fill="#B7A99A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">B.Tech Artificial Intelligence &amp; Data Science · SKCET · Coimbatore</text>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#EFE7D6">
+    <rect x="268" y="198" width="86" height="28" rx="14" fill="none" stroke="#C45C26" stroke-opacity="0.7"/>
+    <text x="311" y="217" text-anchor="middle">Kia</text>
+    <rect x="364" y="198" width="148" height="28" rx="14" fill="none" stroke="#C45C26" stroke-opacity="0.7"/>
+    <text x="438" y="217" text-anchor="middle">India Space Labs</text>
+    <rect x="522" y="198" width="108" height="28" rx="14" fill="none" stroke="#C45C26" stroke-opacity="0.7"/>
+    <text x="576" y="217" text-anchor="middle">Infosys</text>
+    <text x="656" y="217" fill="#B7A99A">CGPA 8.23 · Class of 2027</text>
+  </g>
+</svg>
