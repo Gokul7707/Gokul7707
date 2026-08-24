@@ -28,7 +28,7 @@
 
 <br/>
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding animation"/>
+<img align="right" width="220" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt=""/>
 
 ```python
 # ── gokul_srinivasan.py ─────────────────────────────────
@@ -120,15 +120,10 @@ Hugging Face · PEFT / QLoRA · vLLM · LightGBM · scikit-learn · YOLOv8 · Me
 
 Coimbatore, India · [gokulsrinivasan2020@gmail.com](mailto:gokulsrinivasan2020@gmail.com)
 
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="90" viewBox="0 0 1100 90" role="img" aria-hidden="true">
-  <rect width="1100" height="90" fill="#100E0C"/>
-  <g fill="#EFE7D6" opacity="0.4">
-    <circle cx="120" cy="22" r="1"/><circle cx="340" cy="16" r="1.2"/><circle cx="560" cy="30" r="0.9"/>
-    <circle cx="780" cy="18" r="1.1"/><circle cx="980" cy="28" r="1"/><circle cx="1040" cy="14" r="0.8"/>
-  </g>
-  <circle cx="400" cy="36" r="1.2" fill="#E8A87C"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></circle>
-  <circle cx="800" cy="24" r="1" fill="#C45C26"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/></circle>
-  <path d="M0,58 Q275,28 550,58 T1100,58 L1100,90 L0,90 Z" fill="#C45C26" opacity="0.12"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="28" viewBox="0 0 1100 28" aria-hidden="true">
+  <rect width="1100" height="28" fill="#100E0C"/>
+  <circle cx="280" cy="14" r="1.1" fill="#E8A87C"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></circle>
+  <circle cx="820" cy="16" r="1" fill="#C45C26"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.4s" repeatCount="indefinite"/></circle>
 </svg>
 
 </div>
